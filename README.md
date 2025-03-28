@@ -1,4 +1,5 @@
-Calculator Microservice
+**Calculator Microservice**
+
 This is a simple calculator microservice built using Node.js and Express. The microservice provides endpoints for basic arithmetic operations: addition, subtraction, multiplication, and division. It accepts two numeric inputs via query parameters and returns the result of the operation.
 
 Features
